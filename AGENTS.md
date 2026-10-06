@@ -15,9 +15,9 @@
 2. 将该 Skill 的 `SKILL.md` frontmatter 中的 `description` 原样复制为简单说明。
 3. 确保索引覆盖当前项目中的全部 Skills，不保留失效链接。
 
-## AGENTS.md 维护路由
+## Skill 编写路由
 
-- 新增、修改、拆分或审查 `AGENTS.md` / `AGENTS.override.md` 时，先读取并遵循 `tools/agents-md-author/references/authoring-guide.md`。
+- 新增、修改、拆分或审查 Skill 时，先读取并遵循 `docs/skill-authoring.md`。
 
 ## Git 提交与推送
 
